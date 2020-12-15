@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "275836810780",
+    "project_id": "astronacci-61523",
+    "storage_bucket": "astronacci-61523.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275836810780:android:d0f883e2560a7120afd1d9",
+        "android_client_info": {
+          "package_name": "com.example.asstronacci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275836810780-balev2c0uv446c0v1o0congai75i9js7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asstronacci",
+            "certificate_hash": "b74fe9d3384d4621b8fb518562d2906e0e5ded26"
+          }
+        },
+        {
+          "client_id": "275836810780-jjd03dmc5kth61eae5mj159h9ref7omb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfp30sjcvG8uP-_JM_aMmq9eCVPTAnojo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275836810780-jjd03dmc5kth61eae5mj159h9ref7omb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
